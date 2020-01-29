@@ -24,3 +24,4 @@ eps folder:		put eps file, changing from csv file
 event_to_csv.py change event file to csv file
 csv_to_eps.py 	change csv file to eps file (which I wrote before)
 -------------------------------------------------------
+Part of my codes are modified based on: https://github.com/Spenhouet/tensorboard-aggregator
